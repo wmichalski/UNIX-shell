@@ -1,0 +1,3 @@
+/home/wiktor/Desktop/UNIX_projekt/build/CMakeFiles/rebuild_cache.dir
+/home/wiktor/Desktop/UNIX_projekt/build/CMakeFiles/bash.dir
+/home/wiktor/Desktop/UNIX_projekt/build/CMakeFiles/edit_cache.dir
